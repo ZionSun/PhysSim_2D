@@ -1,0 +1,7 @@
+import pygame
+
+WIDTH, HEIGHT = 800, 600
+BACKGROUND = (25, 25, 35)
+GRAVITY = pygame.Vector2(0, 350)
+ATTRACTION_MAG = 850
+RESTITUTION = 0.8
